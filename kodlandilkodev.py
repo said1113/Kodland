@@ -34,3 +34,5 @@ else: # bundan bir once gelen koşul ifadesinin aksi halde olan kısmı
         tr_words.append(translate) # 33-cü satır gibi ancak bu sefer tr_words listesine translate deöişkeni eklenmiş
         print("Kelime başarıyla eklendi!") # en sondada buradaki cumleyi yazdırmak için bir print komutu kullanılmış
 
+"""Burada For ve While döngüleri kullanılmış.
+Küçük bir translater gprevi görüyor. İçinde input, liste, random.randint değişkenleri kullanılmış"""
