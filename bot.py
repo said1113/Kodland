@@ -31,4 +31,4 @@ async def on_message(message):
 
 
 
-client.run("TOKEN REMOVED FOR SECURITY REASONS")
+client.run("REMOVED FOR SECURITY PURPOSES")
